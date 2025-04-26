@@ -20,6 +20,10 @@
         "extensions": [
           ".orion"
         ],
+        "icon": {
+          "light": "assets/icon.svg",
+          "dark": "assets/icon.svg"
+        },
         "configuration": "./language-configuration.json"
       }
     ],
@@ -35,5 +39,6 @@
     "type": "git",
     "url": "https://github.com/Harjacober/orion-lang.git"
   },
-  "publisher": "kingjoe"
+  "publisher": "kingjoe",
+  "icon": "assets/icon.png"
 }

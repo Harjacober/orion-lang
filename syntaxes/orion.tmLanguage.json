@@ -45,7 +45,7 @@
 			"patterns": [
 				{
 					"name": "keyword.control.orion",
-					"match": "\\b(class|fun|var|if|elseif|else|while|for|break|continue|return|or|and|super)\\b"
+					"match": "\\b(class|fun|var|if|elseif|else|while|for|break|continue|return|or|and|super|this)\\b"
 				}
 			]
 		},
